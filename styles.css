@@ -1,1 +1,23 @@
-/*  your css code here. If applicable */
+table,tr,td{
+	border:1px solid black;
+	spacing:1px;
+	cellpadding:1px;
+	border-collapse:collapse;
+}
+.middle{
+	width:100%;
+}
+#table2{
+	empty-cells:show;
+	height:100px;
+}
+.center{
+	text-align:center;
+}
+.right{
+	text-align:right;
+}
+
+#timage{
+	text-align:center;
+}
